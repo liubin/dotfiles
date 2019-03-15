@@ -4,17 +4,17 @@ dotfiles
 My dotfiles
 
 
-#Install
+# Install
 
-##1. Init Scripts
+## 1. Init Scripts
 
 ```
 source ~/.dotfiles/init.sh
 ```
 
-##2. Files
+## 2. Files
 
-###.gitignore (hard symbolic link)
+### .gitignore (hard symbolic link)
 
 ```
 ln  gitignore ~/.gitignore
