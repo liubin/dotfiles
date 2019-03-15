@@ -17,5 +17,5 @@ source ~/.dotfiles/init.sh
 ### .gitignore (hard symbolic link)
 
 ```
-ln  gitignore ~/.gitignore
+ln  gitconfig	 ~/.gitconfig	
 ```
